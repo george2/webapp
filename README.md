@@ -9,3 +9,4 @@ Credit for included code goes to these sources:
 * Python 2.7
 * Django 1.5
 * django-admin-bootstrapped
+* django-bootstrap-toolkit
